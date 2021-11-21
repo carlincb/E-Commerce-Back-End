@@ -50,7 +50,7 @@ Here are some guidelines to help you get started:
 git clone https://github.com/carlincb/E-Commerce-Back-End
 ```
 
-- Create a `.gitignore` file and include `node_modules/`, `.DS_Store`, and `.env` file, so that these directories are not tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+- Create a `.gitignore` file and include `node_modules/`, `.DS_Store`, and `.env`, so that these directories are not tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
 - Create your own .env file. Using the following format:
 
