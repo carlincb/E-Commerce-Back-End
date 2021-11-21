@@ -66,7 +66,23 @@ DB_PW=yourpassword
 npm install
 ```
 
-- You can then seed data to your database with the examples provided by running the following command:
+- Open your terminal from the root of the file and enter:
+
+```
+msql -u username -p
+```
+
+- Enter password for MySql if applicable.
+
+- Source the schema by entering this command in the terminal from the root folder:
+
+```
+SOURCE db/schema.sql
+```
+
+- Exit MySql by typing `exit`.
+
+- You can then seed data to your database with this command:
 
 ```
 npm run seed
