@@ -69,7 +69,7 @@ npm install
 - Open your terminal from the root of the file and enter:
 
 ```
-msql -u username -p
+mysql -u username -p
 ```
 
 - Enter password for MySql if applicable.
