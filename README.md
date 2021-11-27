@@ -98,9 +98,11 @@ node server.js
 
 ## Usage
 
-Please see below for examples of this application's usage:
+Please see below for examples of this application's usage.
 
-### Video of Usage
+### Video of Usage:
+
+- https://watch.screencastify.com/v/fkvrQnYIkvcA0HVFqnXK
 
 ## Credits
 
