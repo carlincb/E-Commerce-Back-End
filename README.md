@@ -44,8 +44,10 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Here are some guidelines to help you get started:
 
+- Git Clone the Repo:
+
 ```
-git clone https://github.com/carlincb/E-Commerce-Back-End
+git clone git@github.com:carlincb/E-Commerce-Back-End.git
 ```
 
 - Create a `.gitignore` file and include `node_modules/`, `.DS_Store`, and `.env`, so that these directories are not tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
